@@ -64,7 +64,7 @@ export const handler = async (event) => {
     };
 };
 
-\`\`\`
+js````
 
 # AWS API Gateway Caching with Lambda (Setup)
 
