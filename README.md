@@ -64,6 +64,8 @@ export const handler = async (event) => {
     };
 };
 
+\`\`\`
+
 # AWS API Gateway Caching with Lambda (Setup)
 
 This section covers how to set up AWS API Gateway for caching using query parameters and headers as cache keys.
